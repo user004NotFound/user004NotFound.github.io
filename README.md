@@ -1,3 +1,3 @@
-# DE:
+# Autor:
 
 ## Jefferson Josué Esperanza Ortiz
