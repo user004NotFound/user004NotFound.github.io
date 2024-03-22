@@ -1,10 +1,7 @@
 $(document).ready(function() {
   var phrases = [
     "Tu sonrisa ilumina mi día como el sol ilumina la primavera",
-    "Cada vez que pienso en nuestro encuentro, mi corazón late con fuerza",
-    "Incluso las flores amarillas se sentirían celosas de tu belleza",
-    "Siempre protagonista, nunca espectador",
-    "Bryam Eliseo Alvarez Ayala"
+    "Incluso las flores amarillas se sentirían celosas de tu belleza"
   ];
 
   var currentIndex = 0;
